@@ -148,6 +148,10 @@ publish/
 */packages/*
 # except build/, which is used as an MSBuild target.
 */packages/build/
+*/File packages/*
+*/packages/cef.redist.x64.85.3.13/*
+*/packages/cef.redist.x86.85.3.13/*
+
 # Uncomment if necessary however generally it will be regenerated when needed
 */packages/repositories.config
 
