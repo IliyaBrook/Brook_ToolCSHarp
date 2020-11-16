@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\iliya\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\iliya\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Brook_ToolCSharp.-1681394172.00" t="ExcludeRecursive" />
+    <e p="D:\Codding\c#\Projects\Brook_ToolCSharp" t="IncludeFlat">
+      <e p="Brook_ToolCSharp" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="Assets" t="Include">
+          <e p="bezeqLogo.png" t="Include" />
+          <e p="bezeqLogoR.jpg" t="Include" />
+          <e p="input-onlinejpgtools2.jpg" t="Include" />
+          <e p="logo_bezeq.svg" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Brook_ToolCSharp.csproj" t="IncludeRecursive" />
+        <e p="changePass.xaml" t="Include" />
+        <e p="changePass.xaml.cs" t="Include" />
+        <e p="DB" t="Include" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="App.g.cs" t="Include" />
+            <e p="Brook_ToolCSharp_Content.g.cs" t="Include" />
+            <e p="changePass.g.cs" t="Include" />
+            <e p="MainWindow.g.cs" t="Include" />
+          </e>
+        </e>
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="x64" t="Include" />
+        <e p="x86" t="Include" />
+      </e>
+      <e p="Brook_ToolCSharp.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive">
+        <e p="cef.redist.x64.85.3.13\CEF\cef.pak" t="Include" />
+        <e p="cef.redist.x64.85.3.13\CEF\cef_100_percent.pak" t="Include" />
+        <e p="cef.redist.x64.85.3.13\CEF\cef_200_percent.pak" t="Include" />
+        <e p="cef.redist.x64.85.3.13\CEF\cef_extensions.pak" t="Include" />
+        <e p="cef.redist.x64.85.3.13\CEF\chrome_elf.dll" t="Include" />
+        <e p="cef.redist.x64.85.3.13\CEF\d3dcompiler_47.dll" t="Include" />
+        <e p="cef.redist.x64.85.3.13\CEF\devtools_resources.pak" t="Include" />
+        <e p="cef.redist.x64.85.3.13\CEF\icudtl.dat" t="Include" />
+        <e p="cef.redist.x64.85.3.13\CEF\libcef.dll" t="Include" />
+        <e p="cef.redist.x64.85.3.13\CEF\libEGL.dll" t="Include" />
+        <e p="cef.redist.x64.85.3.13\CEF\libGLESv2.dll" t="Include" />
+        <e p="cef.redist.x64.85.3.13\CEF\locales" t="Include">
+          <e p="am.pak" t="Include" />
+          <e p="ar.pak" t="Include" />
+          <e p="bg.pak" t="Include" />
+          <e p="bn.pak" t="Include" />
+          <e p="ca.pak" t="Include" />
+          <e p="cs.pak" t="Include" />
+          <e p="da.pak" t="Include" />
+          <e p="de.pak" t="Include" />
+          <e p="el.pak" t="Include" />
+          <e p="en-GB.pak" t="Include" />
+          <e p="en-US.pak" t="Include" />
+          <e p="es-419.pak" t="Include" />
+          <e p="es.pak" t="Include" />
+          <e p="et.pak" t="Include" />
+          <e p="fa.pak" t="Include" />
+          <e p="fi.pak" t="Include" />
+          <e p="fil.pak" t="Include" />
+          <e p="fr.pak" t="Include" />
+          <e p="gu.pak" t="Include" />
+          <e p="he.pak" t="Include" />
+          <e p="hi.pak" t="Include" />
+          <e p="hr.pak" t="Include" />
+          <e p="hu.pak" t="Include" />
+          <e p="id.pak" t="Include" />
+          <e p="it.pak" t="Include" />
+          <e p="ja.pak" t="Include" />
+          <e p="kn.pak" t="Include" />
+          <e p="ko.pak" t="Include" />
+          <e p="lt.pak" t="Include" />
+          <e p="lv.pak" t="Include" />
+          <e p="ml.pak" t="Include" />
+          <e p="mr.pak" t="Include" />
+          <e p="ms.pak" t="Include" />
+          <e p="nb.pak" t="Include" />
+          <e p="nl.pak" t="Include" />
+          <e p="pl.pak" t="Include" />
+          <e p="pt-BR.pak" t="Include" />
+          <e p="pt-PT.pak" t="Include" />
+          <e p="ro.pak" t="Include" />
+          <e p="ru.pak" t="Include" />
+          <e p="sk.pak" t="Include" />
+          <e p="sl.pak" t="Include" />
+          <e p="sr.pak" t="Include" />
+          <e p="sv.pak" t="Include" />
+          <e p="sw.pak" t="Include" />
+          <e p="ta.pak" t="Include" />
+          <e p="te.pak" t="Include" />
+          <e p="th.pak" t="Include" />
+          <e p="tr.pak" t="Include" />
+          <e p="uk.pak" t="Include" />
+          <e p="vi.pak" t="Include" />
+          <e p="zh-CN.pak" t="Include" />
+          <e p="zh-TW.pak" t="Include" />
+        </e>
+        <e p="cef.redist.x64.85.3.13\CEF\README.txt" t="Include" />
+        <e p="cef.redist.x64.85.3.13\CEF\snapshot_blob.bin" t="Include" />
+        <e p="cef.redist.x64.85.3.13\CEF\swiftshader" t="Include">
+          <e p="libEGL.dll" t="Include" />
+          <e p="libGLESv2.dll" t="Include" />
+        </e>
+        <e p="cef.redist.x64.85.3.13\CEF\v8_context_snapshot.bin" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\cef.pak" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\cef_100_percent.pak" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\cef_200_percent.pak" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\cef_extensions.pak" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\chrome_elf.dll" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\d3dcompiler_47.dll" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\devtools_resources.pak" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\icudtl.dat" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\libcef.dll" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\libEGL.dll" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\libGLESv2.dll" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\locales" t="Include">
+          <e p="am.pak" t="Include" />
+          <e p="ar.pak" t="Include" />
+          <e p="bg.pak" t="Include" />
+          <e p="bn.pak" t="Include" />
+          <e p="ca.pak" t="Include" />
+          <e p="cs.pak" t="Include" />
+          <e p="da.pak" t="Include" />
+          <e p="de.pak" t="Include" />
+          <e p="el.pak" t="Include" />
+          <e p="en-GB.pak" t="Include" />
+          <e p="en-US.pak" t="Include" />
+          <e p="es-419.pak" t="Include" />
+          <e p="es.pak" t="Include" />
+          <e p="et.pak" t="Include" />
+          <e p="fa.pak" t="Include" />
+          <e p="fi.pak" t="Include" />
+          <e p="fil.pak" t="Include" />
+          <e p="fr.pak" t="Include" />
+          <e p="gu.pak" t="Include" />
+          <e p="he.pak" t="Include" />
+          <e p="hi.pak" t="Include" />
+          <e p="hr.pak" t="Include" />
+          <e p="hu.pak" t="Include" />
+          <e p="id.pak" t="Include" />
+          <e p="it.pak" t="Include" />
+          <e p="ja.pak" t="Include" />
+          <e p="kn.pak" t="Include" />
+          <e p="ko.pak" t="Include" />
+          <e p="lt.pak" t="Include" />
+          <e p="lv.pak" t="Include" />
+          <e p="ml.pak" t="Include" />
+          <e p="mr.pak" t="Include" />
+          <e p="ms.pak" t="Include" />
+          <e p="nb.pak" t="Include" />
+          <e p="nl.pak" t="Include" />
+          <e p="pl.pak" t="Include" />
+          <e p="pt-BR.pak" t="Include" />
+          <e p="pt-PT.pak" t="Include" />
+          <e p="ro.pak" t="Include" />
+          <e p="ru.pak" t="Include" />
+          <e p="sk.pak" t="Include" />
+          <e p="sl.pak" t="Include" />
+          <e p="sr.pak" t="Include" />
+          <e p="sv.pak" t="Include" />
+          <e p="sw.pak" t="Include" />
+          <e p="ta.pak" t="Include" />
+          <e p="te.pak" t="Include" />
+          <e p="th.pak" t="Include" />
+          <e p="tr.pak" t="Include" />
+          <e p="uk.pak" t="Include" />
+          <e p="vi.pak" t="Include" />
+          <e p="zh-CN.pak" t="Include" />
+          <e p="zh-TW.pak" t="Include" />
+        </e>
+        <e p="cef.redist.x86.85.3.13\CEF\README.txt" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\snapshot_blob.bin" t="Include" />
+        <e p="cef.redist.x86.85.3.13\CEF\swiftshader" t="Include">
+          <e p="libEGL.dll" t="Include" />
+          <e p="libGLESv2.dll" t="Include" />
+        </e>
+        <e p="cef.redist.x86.85.3.13\CEF\v8_context_snapshot.bin" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x64\CefSharp.BrowserSubprocess.Core.dll" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x64\CefSharp.BrowserSubprocess.Core.pdb" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x64\CefSharp.BrowserSubprocess.exe" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x64\CefSharp.BrowserSubprocess.pdb" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x64\CefSharp.Core.dll" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x64\CefSharp.Core.pdb" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x64\CefSharp.Core.xml" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x64\CefSharp.dll" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x64\CefSharp.pdb" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x64\CefSharp.XML" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x86\CefSharp.BrowserSubprocess.Core.dll" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x86\CefSharp.BrowserSubprocess.Core.pdb" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x86\CefSharp.BrowserSubprocess.exe" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x86\CefSharp.BrowserSubprocess.pdb" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x86\CefSharp.Core.dll" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x86\CefSharp.Core.pdb" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x86\CefSharp.Core.xml" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x86\CefSharp.dll" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x86\CefSharp.pdb" t="Include" />
+        <e p="CefSharp.Common.85.3.130\CefSharp\x86\CefSharp.XML" t="Include" />
+        <e p="CefSharp.Wpf.85.3.130\CefSharp\x64\CefSharp.Wpf.dll" t="Include" />
+        <e p="CefSharp.Wpf.85.3.130\CefSharp\x64\CefSharp.Wpf.pdb" t="Include" />
+        <e p="CefSharp.Wpf.85.3.130\CefSharp\x64\CefSharp.Wpf.XML" t="Include" />
+        <e p="CefSharp.Wpf.85.3.130\CefSharp\x86\CefSharp.Wpf.dll" t="Include" />
+        <e p="CefSharp.Wpf.85.3.130\CefSharp\x86\CefSharp.Wpf.pdb" t="Include" />
+        <e p="CefSharp.Wpf.85.3.130\CefSharp\x86\CefSharp.Wpf.XML" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
